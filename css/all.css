@@ -20,7 +20,25 @@ h2 {
   font-family: Sanchez, serif;
   font-size: 20px;
 }
- img {
+
+h3{
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #ffa500;
+}
+
+a:visited {
+  color: #e26a6a;
+  text-decoration: none;
+}
+
+img {
    width: 400px;
    height: auto;
    display: block;
@@ -37,5 +55,14 @@ ul {
 }
 
 ul li {
+  list-style-type: none;
+}
+
+ol {
+  text-align: center;
+}
+
+ol li {
+  text-align: center;
   list-style-type: none;
 }
