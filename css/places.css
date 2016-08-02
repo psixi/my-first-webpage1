@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  color: brown;
+  font-weight: bold;
+}
+
+img {
+  width: 400px;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: center;
+}
