@@ -1,0 +1,35 @@
+h1 {
+  color: #d24d57;
+  text-align: center;
+  font-style: normal;
+  font-weight: bold;
+  font-family: Cinzel, serif;
+  font-size: 55px;
+  line-height: inherit;
+}
+
+h2 {
+  color: #e08283;
+  text-align: center;
+  font-style: normal;
+  font-weight: bold;
+  font-family: Sanchez, serif;
+  font-size: 20px;
+}
+ img {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+p {
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+ul li {
+  list-style-type: none;
+}
